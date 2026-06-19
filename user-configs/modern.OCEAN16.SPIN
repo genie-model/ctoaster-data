@@ -50,7 +50,7 @@ ma_debug_loop=1
 # --- FORCINGS --------------------------------------------------------
 #
 # specify forcings
-bg_par_forcing_name="worjh2.preindustrial"
+bg_par_forcing_name="pyyyyz.preindustrial"
 #
 # --- END -------------------------------------------------------------
 #
